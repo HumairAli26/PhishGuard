@@ -1,0 +1,17 @@
+From: Amazon Support <support@amaz0n-secure.com>
+To: you@company.com
+Subject: Your Amazon account has been suspended!
+Reply-To: recovery@amaz0n-secure.com
+Return-Path: bounce@amaz0n-secure.com
+Date: Mon, 15 Jun 2026 03:22:00 +0500
+
+Dear Customer,
+
+Your account has been suspended due to unusual activity. You must
+verify your password immediately or your account will be locked
+within 24 hours.
+
+Click here to sign in: http://amaz0n-secure.com/verify-account
+
+Thank you,
+Amazon Security Team

@@ -1,0 +1,14 @@
+From: Sarah Lee <sarah.lee@company.com>
+To: you@company.com
+Subject: Q3 Project Status Update - Non-Urgent
+Reply-To: sarah.lee@company.com
+Return-Path: sarah.lee@company.com
+Date: Mon, 15 Jun 2026 09:12:00 +0500
+
+Hi Team,
+
+Please review the attached project status for Q3 at your earliest
+convenience. No immediate action is required.
+
+Thanks,
+Sarah.

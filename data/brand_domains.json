@@ -1,0 +1,35 @@
+{
+  "trusted_brands": [
+    "google.com", "gmail.com", "microsoft.com", "outlook.com", "office.com",
+    "amazon.com", "paypal.com", "apple.com", "icloud.com", "facebook.com",
+    "instagram.com", "linkedin.com", "netflix.com", "bankofamerica.com",
+    "chase.com", "wellsfargo.com", "dropbox.com", "adobe.com", "dhl.com",
+    "fedex.com", "ups.com", "openai.com", "chatgpt.com", "github.com",
+    "slack.com", "zoom.us", "docusign.com", "irs.gov", "usps.com"
+  ],
+  "homoglyph_map": {
+    "a": ["а", "ɑ", "@"],
+    "e": ["е", "3"],
+    "o": ["о", "0"],
+    "i": ["і", "1", "l"],
+    "l": ["1", "I"],
+    "s": ["$", "5"],
+    "g": ["9"],
+    "b": ["6"],
+    "c": ["с"],
+    "p": ["р"],
+    "x": ["х"]
+  },
+  "known_url_shorteners": [
+    "bit.ly", "tinyurl.com", "t.co", "goo.gl", "ow.ly", "is.gd",
+    "buff.ly", "rebrand.ly", "cutt.ly", "shorturl.at", "rb.gy", "tiny.cc"
+  ],
+  "suspicious_tlds": [
+    ".zip", ".mov", ".xyz", ".top", ".club", ".click", ".work",
+    ".gq", ".tk", ".ml", ".cf", ".ga", ".icu", ".rest", ".pw"
+  ],
+  "combosquat_keywords": [
+    "secure", "login", "verify", "update", "account", "confirm",
+    "billing", "support", "service", "alert", "signin", "auth"
+  ]
+}

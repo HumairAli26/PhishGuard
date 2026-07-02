@@ -1,0 +1,7 @@
+{
+  "high_risk": [".exe", ".scr", ".js", ".vbs", ".bat", ".cmd", ".ps1", ".jar", ".iso", ".img", ".lnk", ".hta", ".wsf"],
+  "macro_risk": [".docm", ".xlsm", ".pptm", ".dotm", ".xltm"],
+  "archive_wrapping": [".zip", ".rar", ".7z", ".gz", ".tar"],
+  "double_extension_pattern": "\\.\\w{2,4}\\.(exe|scr|js|bat|vbs|jar|hta)$",
+  "generally_safe": [".pdf", ".jpg", ".jpeg", ".png", ".txt", ".csv"]
+}

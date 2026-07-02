@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+phishguard_history.db
+reports/
+test_reports/
+*.egg-info/
+build/
+dist/
+.DS_Store
+_gauge_tmp.png
+_pie_tmp.png

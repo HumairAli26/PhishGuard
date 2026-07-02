@@ -1,0 +1,12 @@
+From: Microsoft Subscription <billing@microsoft-renewals.xyz>
+To: you@company.com
+Subject: Urgent: ChatGPT Payment Failure
+Date: Mon, 15 Jun 2026 14:10:00 +0500
+
+Your subscription payment failed. This is your final notice.
+
+Please call 1-800-XXX-XXXX IMMEDIATELY to cancel and avoid a penalty
+charge of $190.60.
+
+Attachments:
+Invoice_Details.pdf.exe

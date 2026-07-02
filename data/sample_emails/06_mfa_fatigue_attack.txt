@@ -1,0 +1,13 @@
+From: Security Alerts <alerts@company.com>
+To: you@company.com
+Subject: Approve Sign-In - Unusual Activity Detected
+Reply-To: security-noreply@company-alerts-secure.club
+Date: Mon, 15 Jun 2026 02:14:00 +0500
+
+We noticed unusual activity on your account from an unknown location.
+
+Please approve this request in your authenticator app to confirm this
+was you. Tap approve. If you do not recognize this login attempt,
+legal action may be taken against unauthorized access.
+
+http://bit.ly/3xAmpleLink

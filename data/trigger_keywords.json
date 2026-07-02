@@ -1,0 +1,67 @@
+{
+  "urgency": {
+    "weight": 8,
+    "phrases": [
+      "urgent", "immediately", "act now", "expires today", "final notice",
+      "within 24 hours", "account will be locked", "time sensitive",
+      "respond immediately", "last chance", "within 30 minutes",
+      "before it's too late", "deadline"
+    ]
+  },
+  "authority": {
+    "weight": 9,
+    "phrases": [
+      "ceo", "director", "hr department", "it security", "law enforcement",
+      "legal action", "compliance department", "executive office",
+      "official notice", "government agency", "irs", "audit notice"
+    ]
+  },
+  "fear_greed": {
+    "weight": 9,
+    "phrases": [
+      "suspended", "unauthorized access", "unusual activity", "your account has been",
+      "legal action will be taken", "winner", "claim your prize", "free gift",
+      "you have won", "penalty", "fine", "lawsuit", "arrest warrant"
+    ]
+  },
+  "curiosity": {
+    "weight": 5,
+    "phrases": [
+      "someone shared a document", "see what they said about you",
+      "you were mentioned", "shared a file with you", "voicemail from",
+      "missed call", "photos of you"
+    ]
+  },
+  "bypass_secrecy": {
+    "weight": 10,
+    "phrases": [
+      "do not discuss", "strictly confidential", "bypass standard procedure",
+      "keep this between us", "don't tell", "without informing", "secretly",
+      "no one else should know"
+    ]
+  },
+  "credential_harvesting": {
+    "weight": 10,
+    "phrases": [
+      "verify your password", "confirm your password", "enter your mfa code",
+      "update your billing information", "re-enter your credentials",
+      "your password will expire", "verify your identity now",
+      "click here to sign in", "reset your password immediately"
+    ]
+  },
+  "financial_request": {
+    "weight": 9,
+    "phrases": [
+      "wire transfer", "gift card", "bank details", "routing number",
+      "invoice attached", "payment overdue", "update payment method",
+      "process the attached wire", "purchase gift cards"
+    ]
+  },
+  "mfa_fatigue": {
+    "weight": 9,
+    "phrases": [
+      "approve sign-in", "approve this request", "confirm login attempt",
+      "authenticator push", "tap approve"
+    ]
+  }
+}
