@@ -275,7 +275,10 @@ The automated tests validate:
 
 # 📸 Screenshots
 
-> Add screenshots of the GUI here.
+<img width="1919" height="1018" alt="image" src="https://github.com/user-attachments/assets/943fa59b-94b3-439f-9427-0ece08753f5a" />
+<img width="1919" height="1015" alt="image" src="https://github.com/user-attachments/assets/ee717370-9bf7-4527-8aac-65c5ba22082a" />
+<img width="1919" height="1019" alt="image" src="https://github.com/user-attachments/assets/f7729609-e1b4-4f0b-bd33-35e7f772cf46" />
+<img width="1919" height="1018" alt="image" src="https://github.com/user-attachments/assets/73bc7824-9d88-46da-96e2-2954abbdf982" />
 
 ---
 
